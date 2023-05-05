@@ -1,5 +1,7 @@
 # Inpaint-Anything-Description
 you can replace some objects of input image  according to the description of objects
+
+CSDN：[https://blog.csdn.net/qq_41994006/article/details/130500086?spm=1001.2014.3001.5502](https://blog.csdn.net/qq_41994006/article/details/130500086?spm=1001.2014.3001.5502)
 # Install
 create env Requires python>=3.8
 
