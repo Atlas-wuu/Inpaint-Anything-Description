@@ -1,3 +1,5 @@
+
+
 # Inpaint-Anything-Description
 you can replace some objects of input image  according to the description of objects
 
@@ -28,8 +30,7 @@ pip install -q -e .
 # Usage
 Download the model checkpoints provided in `grounding dino`([Swin-T](https://huggingface.co/ShilongLiu/GroundingDINO/resolve/main/groundingdino_swint_ogc.pth)、[Swin-B](https://huggingface.co/ShilongLiu/GroundingDINO/resolve/main/groundingdino_swinb_cogcoor.pth))/ `segment_anything`([ViT-H](https://dl.fbaipublicfiles.com/segment_anything/sam_vit_h_4b8939.pth)、
 [ViT-L](https://dl.fbaipublicfiles.com/segment_anything/sam_vit_l_0b3195.pth)、[ViT-B](https://dl.fbaipublicfiles.com/segment_anything/sam_vit_b_01ec64.pth)) 
-/ `lama`(e.g. [sam_vit_h_4b8939.pth](https://dl.fbaipublicfiles.com/segment_anything/sam_vit_h_4b8939.pth) 
-and [big-lama](https://disk.yandex.ru/d/ouP6l8VJ0HpMZg)), and put them into `./pretrained_models`.
+/ `lama`(e.g. [big-lama](https://disk.yandex.ru/d/ouP6l8VJ0HpMZg)), and put them into `./pretrained_models`.
 ```
 cd Inpaint-Anything-Description
 
